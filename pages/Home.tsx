@@ -115,7 +115,7 @@ const Home: React.FC = () => {
                   Welcome to
                 </span>
                 <img 
-                  src="../assets/logo.svg" 
+                  src="../public/logo.svg" 
                   alt="Prints24 Logo"
                   className="h-8 md:h-16 w-auto" 
                 />

@@ -123,7 +123,7 @@ const Navbar: React.FC = () => {
           {/* Logo */}
           <Link to="/" className="flex items-center gap-2 group">
             <img
-              src="../assets/logo.svg"
+              src="../public/logo.svg"
               alt="Prints24 Logo"
               className="h-56 w-56 object-contain group-hover:scale-105 transition-transform" // Increased from h-48 w-48 to h-56 w-56
             />
